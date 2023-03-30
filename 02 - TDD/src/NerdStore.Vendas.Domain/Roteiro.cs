@@ -1,6 +1,7 @@
 ﻿namespace NerdStore.Vendas.Domain
 {
     public class Roteiro
+
     {
         /* DESENVOLVIMENTO DO DOMINIO DE VENDAS */
 
