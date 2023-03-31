@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2w912u9ru3dvCkQ81PVKZvOHvoi4x40gd8sYwviHHZsPU9PAsO7Xia/DHl81E7v6JgeJTC6l4XGgGOjgSxwsJA==",
+  "dgSpecHash": "fnWgUzf6XebGaVOU3Ibcay86I5XUzFSP4oyhYgxOlrPbOnSJphwf3wz4a+d0CMWk3d5xmnHo8AVpiPO6hfGFxw==",
   "success": true,
-  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
+  "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

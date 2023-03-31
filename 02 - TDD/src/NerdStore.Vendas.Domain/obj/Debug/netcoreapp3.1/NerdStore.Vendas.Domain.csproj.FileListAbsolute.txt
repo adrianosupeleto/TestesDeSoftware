@@ -8,3 +8,6 @@ D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdSt
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CopyComplete

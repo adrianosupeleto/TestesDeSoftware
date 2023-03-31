@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RIHWW99mX6nEkBOrieE6qFubTubTzRss45GIOd8C/fMsp+RJpelPOe0t3mACdCgirhVLFtS6zGNBp3xpRWseXQ==",
+  "dgSpecHash": "ReNUWnwFHwYowG2h4KQL0gg6yIBGyo5U/wa58JYXrP/wMBijcQIGjSZFfeDCtdEb7cyWWnOKji/3PLbVXBAteQ==",
   "success": true,
-  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+  "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

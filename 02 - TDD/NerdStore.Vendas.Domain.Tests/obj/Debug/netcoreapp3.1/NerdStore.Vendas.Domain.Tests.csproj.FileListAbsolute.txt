@@ -97,3 +97,5 @@ D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\NerdStore.
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\NerdStore.Vendas.Domain.Tests\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.Tests.dll
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\NerdStore.Vendas.Domain.Tests\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.Tests.pdb
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\NerdStore.Vendas.Domain.Tests\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.Tests.genruntimeconfig.cache
+d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\NerdStore.Vendas.Domain.Tests\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\NerdStore.Vendas.Domain.Tests\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
