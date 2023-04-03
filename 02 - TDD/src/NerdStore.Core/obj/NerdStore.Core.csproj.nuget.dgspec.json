@@ -40,6 +40,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Mediatr": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "fluentvalidation": {
               "target": "Package",
               "version": "[11.5.1, )"

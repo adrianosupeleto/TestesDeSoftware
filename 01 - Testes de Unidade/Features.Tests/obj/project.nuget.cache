@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tXniJ8uWxFSR70xvNWIPAdpkAMPoO/+vIa9D3YDR3g7WB24EtUYq6cVFlGl0OU+yDAXOT+ALk90vJXBd5Gqr+g==",
+  "dgSpecHash": "wwCavSLqL0KssCml+YYsgwYv/Kh+W3gpBvL+qYxaJE2Xl4KnXc9J+mMXlaFsClLaVfYMXn8tmc+p0CJzLFg+IQ==",
   "success": true,
-  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
+  "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\bogus\\28.0.3\\bogus.28.0.3.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

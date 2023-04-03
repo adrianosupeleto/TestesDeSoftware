@@ -31,6 +31,7 @@ namespace NerdStore.Vendas.Domain
     {
         return new VoucherAplicavelValidation().Validate(this);
     }
+
     }
 
     public class VoucherAplicavelValidation : AbstractValidator<Voucher>
@@ -88,5 +89,6 @@ namespace NerdStore.Vendas.Domain
     {
         return dataValidade >= DateTime.Now;
     }
+    
     }
 }

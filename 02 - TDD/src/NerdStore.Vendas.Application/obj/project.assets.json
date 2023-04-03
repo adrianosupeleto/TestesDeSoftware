@@ -1,0 +1,176 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FluentValidation/11.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MediatR/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
+      "NerdStore.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Mediatr": "7.0.0",
+          "fluentvalidation": "11.5.1"
+        },
+        "compile": {
+          "bin/placeholder/NerdStore.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Core.dll": {}
+        }
+      },
+      "NerdStore.Vendas.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NerdStore.Core": "1.0.0",
+          "fluentvalidation": "11.5.1"
+        },
+        "compile": {
+          "bin/placeholder/NerdStore.Vendas.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Vendas.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentValidation/11.5.1": {
+      "sha512": "0h1Q5lNOLLyYTWMJmyNoMqhY4CBRvvUWvJP1R4F2CnmmzuWwvB0A8aVmw5+lOuwYnwUwCRrdeMLbc81F38ahNQ==",
+      "type": "package",
+      "path": "fluentvalidation/11.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.5.1.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "MediatR/7.0.0": {
+      "sha512": "sgfHxkBsmMlHOD564SnLqTvSbAuGlFiZfc6ybxBSI1wYV/2u+Y5TXtFoIhCISFg5/s/6aMvB338QC2JseHsjTA==",
+      "type": "package",
+      "path": "mediatr/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/MediatR.dll",
+        "lib/netstandard2.0/MediatR.dll",
+        "mediatr.7.0.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "NerdStore.Core/1.0.0": {
+      "type": "project",
+      "path": "../NerdStore.Core/NerdStore.Core.csproj",
+      "msbuildProject": "../NerdStore.Core/NerdStore.Core.csproj"
+    },
+    "NerdStore.Vendas.Domain/1.0.0": {
+      "type": "project",
+      "path": "../NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj",
+      "msbuildProject": "../NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "NerdStore.Core >= 1.0.0",
+      "NerdStore.Vendas.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+      "projectName": "NerdStore.Vendas.Application",
+      "projectPath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+              "projectPath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+            },
+            "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+              "projectPath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

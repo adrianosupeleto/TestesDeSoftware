@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JvQXpzBvNXFvSFPNhdpxtgV/5aTrG8b4sZ8M1QBGht4CkUVHIqK2NIaxzdTEePfsBoFLrbbMa/AYf+ADrAHEKA==",
+  "dgSpecHash": "+sanPdFhPZOnyBPLueP31R8kKQZ+O44oJ/feYgi6lq64Of5I6YowIBHgDOz3tlOWGmFiLvYIhcIiK2j8a0TdKQ==",
   "success": true,
-  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+  "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
