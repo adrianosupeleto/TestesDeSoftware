@@ -9,6 +9,7 @@
       "NerdStore.Vendas.Application.Tests/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "16.5.0",
+          "NerdStore.Vendas.Application": "1.0.0",
           "coverlet.collector": "1.2.0",
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0"
@@ -18,6 +19,22 @@
         }
       },
       "coverlet.collector/1.2.0": {},
+      "FluentValidation/11.5.1": {
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.5.1.0"
+          }
+        }
+      },
+      "MediatR/7.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/16.5.0": {
         "runtime": {
           "lib/netcoreapp1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -687,6 +704,33 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "16.5.0"
         }
+      },
+      "NerdStore.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "7.0.0",
+          "FluentValidation": "11.5.1"
+        },
+        "runtime": {
+          "NerdStore.Core.dll": {}
+        }
+      },
+      "NerdStore.Vendas.Application/1.0.0": {
+        "dependencies": {
+          "NerdStore.Core": "1.0.0",
+          "NerdStore.Vendas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NerdStore.Vendas.Application.dll": {}
+        }
+      },
+      "NerdStore.Vendas.Domain/1.0.0": {
+        "dependencies": {
+          "NerdStore.Core": "1.0.0",
+          "FluentValidation": "11.5.1"
+        },
+        "runtime": {
+          "NerdStore.Vendas.Domain.dll": {}
+        }
       }
     }
   },
@@ -702,6 +746,20 @@
       "sha512": "sha512-ZB+EGXsVBIn8cew7D3S2c+rgIlokKv1dSwsXEoiFQaNXF/BSxp9Rlfz/jV1ehSWH5XpLitfRxFNW3ok7uPDOXA==",
       "path": "coverlet.collector/1.2.0",
       "hashPath": "coverlet.collector.1.2.0.nupkg.sha512"
+    },
+    "FluentValidation/11.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0h1Q5lNOLLyYTWMJmyNoMqhY4CBRvvUWvJP1R4F2CnmmzuWwvB0A8aVmw5+lOuwYnwUwCRrdeMLbc81F38ahNQ==",
+      "path": "fluentvalidation/11.5.1",
+      "hashPath": "fluentvalidation.11.5.1.nupkg.sha512"
+    },
+    "MediatR/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sgfHxkBsmMlHOD564SnLqTvSbAuGlFiZfc6ybxBSI1wYV/2u+Y5TXtFoIhCISFg5/s/6aMvB338QC2JseHsjTA==",
+      "path": "mediatr/7.0.0",
+      "hashPath": "mediatr.7.0.0.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/16.5.0": {
       "type": "package",
@@ -1045,6 +1103,21 @@
       "sha512": "sha512-3eq5cGXbEJkqW9nwLuXwtxy9B5gMA8i7HW4rN63AhAvy5UvEcQbZnve23wx/oPrkyg/4CbfNhxkBezS0b1oUdQ==",
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
+    },
+    "NerdStore.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NerdStore.Vendas.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NerdStore.Vendas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

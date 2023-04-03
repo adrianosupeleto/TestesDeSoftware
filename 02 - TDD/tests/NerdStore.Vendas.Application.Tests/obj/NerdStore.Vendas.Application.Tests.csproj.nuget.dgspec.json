@@ -4,6 +4,198 @@
     "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Application.Tests\\NerdStore.Vendas.Application.Tests.csproj": {}
   },
   "projects": {
+    "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectName": "NerdStore.Core",
+        "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Mediatr": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "fluentvalidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+        "projectName": "NerdStore.Vendas.Application",
+        "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              },
+              "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+                "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+        "projectName": "NerdStore.Vendas.Domain",
+        "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "fluentvalidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Application.Tests\\NerdStore.Vendas.Application.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +219,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
+                "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

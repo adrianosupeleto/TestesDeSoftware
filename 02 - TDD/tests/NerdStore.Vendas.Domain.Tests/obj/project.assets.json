@@ -3647,13 +3647,13 @@
     },
     "NerdStore.Core/1.0.0": {
       "type": "project",
-      "path": "../src/NerdStore.Core/NerdStore.Core.csproj",
-      "msbuildProject": "../src/NerdStore.Core/NerdStore.Core.csproj"
+      "path": "../../src/NerdStore.Core/NerdStore.Core.csproj",
+      "msbuildProject": "../../src/NerdStore.Core/NerdStore.Core.csproj"
     },
     "NerdStore.Vendas.Domain/1.0.0": {
       "type": "project",
-      "path": "../src/NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj",
-      "msbuildProject": "../src/NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj"
+      "path": "../../src/NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj",
+      "msbuildProject": "../../src/NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3671,11 +3671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
+      "projectUniqueName": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
       "projectName": "NerdStore.Vendas.Domain.Tests",
-      "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
+      "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\NerdStore.Vendas.Domain.Tests\\obj\\",
+      "outputPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",

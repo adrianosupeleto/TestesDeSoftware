@@ -8,6 +8,28 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "FluentValidation/11.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MediatR/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
       "Microsoft.CodeCoverage/16.5.0": {
         "type": "package",
         "compile": {
@@ -997,6 +1019,48 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "NerdStore.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Mediatr": "7.0.0",
+          "fluentvalidation": "11.5.1"
+        },
+        "compile": {
+          "bin/placeholder/NerdStore.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Core.dll": {}
+        }
+      },
+      "NerdStore.Vendas.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NerdStore.Core": "1.0.0",
+          "NerdStore.Vendas.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NerdStore.Vendas.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Vendas.Application.dll": {}
+        }
+      },
+      "NerdStore.Vendas.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NerdStore.Core": "1.0.0",
+          "fluentvalidation": "11.5.1"
+        },
+        "compile": {
+          "bin/placeholder/NerdStore.Vendas.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Vendas.Domain.dll": {}
+        }
       }
     }
   },
@@ -1030,6 +1094,42 @@
         "build/netstandard1.0/coverlet.core.pdb",
         "coverlet.collector.1.2.0.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "FluentValidation/11.5.1": {
+      "sha512": "0h1Q5lNOLLyYTWMJmyNoMqhY4CBRvvUWvJP1R4F2CnmmzuWwvB0A8aVmw5+lOuwYnwUwCRrdeMLbc81F38ahNQ==",
+      "type": "package",
+      "path": "fluentvalidation/11.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.5.1.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "MediatR/7.0.0": {
+      "sha512": "sgfHxkBsmMlHOD564SnLqTvSbAuGlFiZfc6ybxBSI1wYV/2u+Y5TXtFoIhCISFg5/s/6aMvB338QC2JseHsjTA==",
+      "type": "package",
+      "path": "mediatr/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/MediatR.dll",
+        "lib/netstandard2.0/MediatR.dll",
+        "mediatr.7.0.0.nupkg.sha512",
+        "mediatr.nuspec"
       ]
     },
     "Microsoft.CodeCoverage/16.5.0": {
@@ -3558,11 +3658,27 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "NerdStore.Core/1.0.0": {
+      "type": "project",
+      "path": "../../src/NerdStore.Core/NerdStore.Core.csproj",
+      "msbuildProject": "../../src/NerdStore.Core/NerdStore.Core.csproj"
+    },
+    "NerdStore.Vendas.Application/1.0.0": {
+      "type": "project",
+      "path": "../../src/NerdStore.Vendas.Application/NerdStore.Vendas.Application.csproj",
+      "msbuildProject": "../../src/NerdStore.Vendas.Application/NerdStore.Vendas.Application.csproj"
+    },
+    "NerdStore.Vendas.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../src/NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj",
+      "msbuildProject": "../../src/NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "NerdStore.Vendas.Application >= 1.0.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
@@ -3594,7 +3710,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
+              "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

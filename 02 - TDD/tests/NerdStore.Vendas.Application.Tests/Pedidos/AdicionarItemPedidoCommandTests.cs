@@ -1,7 +1,10 @@
+using NerdStore.Vendas.Application.Commands;
+using NerdStore.Vendas.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Xunit;
 
 namespace NerdStore.Vendas.Application.Tests.Pedidos
 {
@@ -59,3 +62,5 @@ namespace NerdStore.Vendas.Application.Tests.Pedidos
         }
     }
 }
+
+// Vídeo 15 - PAUSA
