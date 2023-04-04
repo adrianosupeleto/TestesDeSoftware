@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fjXiUGNXnDAd0GWJHG8NQJowoeyjWXfg4v4v/X+AMvbzUmeyub42pwWQqztpqF7SAx0lluaP/F/xHE6k+fpAVw==",
+  "dgSpecHash": "/uBPUdSF5lrGastg1GJJcNVVOft8TWNwp2v3T8Qbrfc2opz6e9T3xWSPzEeSrdyfyXAFoBEOncuTmleeVZNfAQ==",
   "success": true,
-  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+  "projectFilePath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
+    "C:\\Users\\adria\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

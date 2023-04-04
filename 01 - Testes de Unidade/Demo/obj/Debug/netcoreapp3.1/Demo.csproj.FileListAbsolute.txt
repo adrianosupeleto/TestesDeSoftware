@@ -8,3 +8,13 @@ D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\01 - Testes de Unid
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.dll
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.pdb

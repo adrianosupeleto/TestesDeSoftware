@@ -8,3 +8,13 @@ d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdSt
 d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.csproj.CoreCompileInputs.cache
 d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.dll
 d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.pdb
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.deps.json
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.csproj.AssemblyReference.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.AssemblyInfoInputs.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.AssemblyInfo.cs
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.csproj.CoreCompileInputs.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.dll
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.pdb

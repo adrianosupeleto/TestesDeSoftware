@@ -11,3 +11,16 @@ D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdSt
 d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
 d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
 d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CopyComplete
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.deps.json
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfo.cs
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CopyComplete
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+c:\Desenvolvimento\Testes\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
