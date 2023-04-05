@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FpozQWPyR4sdO/N0R5b7bQ8gvUum9w3kLCJRG2e7bCKF0hd42o8wPgvx8AITDdQifKkBI5h6eOsEgI32RcxtMQ==",
+  "dgSpecHash": "p7FpgsbJSlUeYY4+bRbpJ74eSm/Tp0BEAqtBDL0sVpXstjxVkxtIeLFwz/L5B8gNMRQYsXs95kZpsDadUqwMow==",
   "success": true,
-  "projectFilePath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+  "projectFilePath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adria\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",

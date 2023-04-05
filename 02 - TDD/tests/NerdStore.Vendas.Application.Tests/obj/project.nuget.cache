@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KrUTcvjJAP6wlwkgTTegTjyWW2f/rYWx6DlPDbgv5DxQ7YymsWNtbvgP25Xp/q+GmhPgzC3VCj/nSpzANMuZHA==",
+  "dgSpecHash": "1G1aSQ+UopzPD5L3sfVPPqWC379jeTYBlMgPiTqsIjaOZPzRlYCsXsn688SgGqo4sYckRbl2gEUYQoj+ufh7sA==",
   "success": true,
-  "projectFilePath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Application.Tests\\NerdStore.Vendas.Application.Tests.csproj",
+  "projectFilePath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Application.Tests\\NerdStore.Vendas.Application.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adria\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

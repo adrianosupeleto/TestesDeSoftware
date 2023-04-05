@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {}
+    "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {
+    "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
+        "projectUniqueName": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
         "projectName": "Features.Tests",
-        "projectPath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
+        "projectPath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
         "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\obj\\",
+        "outputPath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
-                "projectPath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj"
+              "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
+                "projectPath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj"
               }
             }
           }
@@ -106,14 +106,14 @@
         }
       }
     },
-    "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
+    "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+        "projectUniqueName": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
         "projectName": "Features",
-        "projectPath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+        "projectPath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
         "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\obj\\",
+        "outputPath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

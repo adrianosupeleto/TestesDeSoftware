@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kwx9UPYL3WYkoUsOUwZruqSJMKUoL1SKlOfrg9b0G25Ajnx6ERoSOE3HDYIJHRRTnNryGZQYHW4coJO/6+rcwQ==",
+  "dgSpecHash": "uLsG3Y3Wg+sFyyLS8ZS7yyK3oMTNh19OiOIS/XoUb+aVU6K6tHKozi+jMcg8IWX0Rkwd04x5hn/Rtj2cVB65BQ==",
   "success": true,
-  "projectFilePath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adria\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",

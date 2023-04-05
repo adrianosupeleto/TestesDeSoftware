@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj": {}
+    "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj": {
+    "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\obj\\",
+        "outputPath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

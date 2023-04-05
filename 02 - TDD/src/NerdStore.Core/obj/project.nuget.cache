@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9lNUo2+bgpQX9KYjua3We0Xhybn81A4hbrSZ8tpLG8jcJ0gNETcZ69RGEjo716IH4P9AndhiAI1nyrU/SETaUw==",
+  "dgSpecHash": "RlxOkwVzJ6cJweX/93g5vg8WnoH2treupZJid1f/GMc+h4NuP9lrQD0dRXRYk+uT1cvbAtyZdZk/4MhB7HgFPA==",
   "success": true,
-  "projectFilePath": "c:\\Desenvolvimento\\Testes\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+  "projectFilePath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adria\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
