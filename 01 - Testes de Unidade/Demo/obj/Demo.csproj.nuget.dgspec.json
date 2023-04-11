@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj": {}
   },
   "projects": {
@@ -12,9 +13,25 @@
         "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
         "outputPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\obj\\",
+=======
+    "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj": {}
+  },
+  "projects": {
+    "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
+        "projectName": "Demo",
+        "projectPath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
+        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
+        "outputPath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\obj\\",
+>>>>>>> 1eb49a4f236168ec6f352f266ea6e6e39ed27d5a
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

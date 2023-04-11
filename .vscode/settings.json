@@ -1,7 +1,11 @@
 {
     "dotnet-test-explorer.testProjectPath": "**/*.Tests.csproj",
     "files.exclude": {
+<<<<<<< HEAD
         "**/bin": true,
         "**/obj": true
+=======
+        "**/.vs": true
+>>>>>>> 1eb49a4f236168ec6f352f266ea6e6e39ed27d5a
     }
 }

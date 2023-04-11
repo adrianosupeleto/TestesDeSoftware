@@ -1,12 +1,18 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "+sanPdFhPZOnyBPLueP31R8kKQZ+O44oJ/feYgi6lq64Of5I6YowIBHgDOz3tlOWGmFiLvYIhcIiK2j8a0TdKQ==",
   "success": true,
   "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+=======
+  "dgSpecHash": "p7FpgsbJSlUeYY4+bRbpJ74eSm/Tp0BEAqtBDL0sVpXstjxVkxtIeLFwz/L5B8gNMRQYsXs95kZpsDadUqwMow==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+>>>>>>> 1eb49a4f236168ec6f352f266ea6e6e39ed27d5a
   "expectedPackageFiles": [
-    "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    "C:\\Users\\adria\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
   ],
   "logs": []
 }

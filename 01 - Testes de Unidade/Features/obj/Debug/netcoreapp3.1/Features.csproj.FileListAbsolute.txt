@@ -8,3 +8,13 @@ D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\01 - Testes de Unid
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csproj.CoreCompileInputs.cache
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.dll
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.pdb
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.dll
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.pdb
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csproj.AssemblyReference.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.GeneratedMSBuildEditorConfig.editorconfig
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csproj.CoreCompileInputs.cache
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.dll
+c:\Desenvolvimento\Testes\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.pdb

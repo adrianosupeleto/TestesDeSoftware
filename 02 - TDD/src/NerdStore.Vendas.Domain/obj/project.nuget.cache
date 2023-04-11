@@ -1,11 +1,17 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ABmon2JunA+aYPtX0iZr5zNiZhJySzoS/i6+hPEcEcNjCnZBcD7PlsIBl7Cy065CWesNObN+I/67QmlrSrEBvQ==",
   "success": true,
   "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+=======
+  "dgSpecHash": "tIdgeFhdQ4B/q4IQM5HfH/4NnDHg68zmBTKkekyPjE/f+13kbGSpTcW3SjwxIv6siMQlSEUwYsS0eo9AmwHrQg==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+>>>>>>> 1eb49a4f236168ec6f352f266ea6e6e39ed27d5a
   "expectedPackageFiles": [
-    "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
+    "C:\\Users\\adria\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
