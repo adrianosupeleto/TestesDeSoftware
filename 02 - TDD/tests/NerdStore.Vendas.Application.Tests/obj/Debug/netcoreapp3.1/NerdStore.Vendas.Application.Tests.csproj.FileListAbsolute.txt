@@ -103,3 +103,9 @@ D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\tests\Nerd
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.Tests.dll
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.Tests.pdb
 D:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.Tests.genruntimeconfig.cache
+d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\Moq.AutoMock.dll
+d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\NonBlocking.dll
+d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+d:\Desenvolvimento\CSharp\AspNetCore\TESTES\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll

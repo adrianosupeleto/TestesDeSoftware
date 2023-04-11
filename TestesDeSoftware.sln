@@ -1,4 +1,3 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
@@ -27,9 +26,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.Vendas.Applicatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{5F2BF82C-5D69-46DB-8AB6-CB4373CA6E99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.Vendas.Domain.Tests", "02 - TDD\tests\NerdStore.Vendas.Domain.Tests\NerdStore.Vendas.Domain.Tests.csproj", "{1472E631-4576-44C9-80C8-77AF8A935BBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.Vendas.Domain.Tests", "02 - TDD\tests\NerdStore.Vendas.Domain.Tests\NerdStore.Vendas.Domain.Tests.csproj", "{1472E631-4576-44C9-80C8-77AF8A935BBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.Vendas.Application.Tests", "02 - TDD\tests\NerdStore.Vendas.Application.Tests\NerdStore.Vendas.Application.Tests.csproj", "{D7584BBA-8083-44A7-AF50-7F696516C58A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.Vendas.Application.Tests", "02 - TDD\tests\NerdStore.Vendas.Application.Tests\NerdStore.Vendas.Application.Tests.csproj", "{D7584BBA-8083-44A7-AF50-7F696516C58A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03- BDD", "03- BDD", "{789DE0E0-A821-4537-B7F3-ED4B15E23A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.BDD.Tests", "03 -BDD\tests\NerdStore.BDD.Tests\NerdStore.BDD.Tests.csproj", "{E9BC51DA-8A41-47AA-9D10-D9C56A20D07E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +76,10 @@ Global
 		{D7584BBA-8083-44A7-AF50-7F696516C58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7584BBA-8083-44A7-AF50-7F696516C58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7584BBA-8083-44A7-AF50-7F696516C58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BC51DA-8A41-47AA-9D10-D9C56A20D07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BC51DA-8A41-47AA-9D10-D9C56A20D07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BC51DA-8A41-47AA-9D10-D9C56A20D07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BC51DA-8A41-47AA-9D10-D9C56A20D07E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +97,7 @@ Global
 		{5F2BF82C-5D69-46DB-8AB6-CB4373CA6E99} = {A92FC89B-4A41-4AE3-A8D8-1326F48C7DE3}
 		{1472E631-4576-44C9-80C8-77AF8A935BBD} = {5F2BF82C-5D69-46DB-8AB6-CB4373CA6E99}
 		{D7584BBA-8083-44A7-AF50-7F696516C58A} = {5F2BF82C-5D69-46DB-8AB6-CB4373CA6E99}
+		{E9BC51DA-8A41-47AA-9D10-D9C56A20D07E} = {789DE0E0-A821-4537-B7F3-ED4B15E23A1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {86C43262-C83D-449E-AC2E-A2954CC2588B}
