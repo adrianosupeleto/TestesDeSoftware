@@ -3566,23 +3566,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adria\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\03 - Testes de Integração\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj",
+      "projectUniqueName": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\03 - Testes de Integração\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj",
       "projectName": "NerdStore.WebApp.Tests",
-      "projectPath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\03 - Testes de Integração\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj",
-      "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-      "outputPath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\03 - Testes de Integração\\tests\\NerdStore.WebApp.Tests\\obj\\",
+      "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\03 - Testes de Integração\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\03 - Testes de Integração\\tests\\NerdStore.WebApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
