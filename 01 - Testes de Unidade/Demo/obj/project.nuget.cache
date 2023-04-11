@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "5jSTayp3BUJKtv+2DA4TGC7u9O5gEl8tQYcBZNE/1Llaknnu89b60I+9zgQa8kDL8d8cWuDfC/ew9gICh20y2g==",
   "success": true,
   "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
-=======
-  "dgSpecHash": "aWD5mqp6JWSQtBCC9/Ft3aj04PmpG8/fmgnsn87q5ST90ICYb16Y23BpfCwWVD5mcVUecR4Hvkaf67xgz8GJfg==",
-  "success": true,
-  "projectFilePath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
->>>>>>> 1eb49a4f236168ec6f352f266ea6e6e39ed27d5a
   "expectedPackageFiles": [],
   "logs": []
 }

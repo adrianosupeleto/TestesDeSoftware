@@ -1,17 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "ABmon2JunA+aYPtX0iZr5zNiZhJySzoS/i6+hPEcEcNjCnZBcD7PlsIBl7Cy065CWesNObN+I/67QmlrSrEBvQ==",
+  "dgSpecHash": "humRkNjcfIn6bowtlWmnvjkCyYPZG2cH0A76DXb929GCake0Kgi3YWqmhgAyNJsfBoFOaj5Yj2wHT+vGa/Dt2w==",
   "success": true,
-  "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
-=======
-  "dgSpecHash": "tIdgeFhdQ4B/q4IQM5HfH/4NnDHg68zmBTKkekyPjE/f+13kbGSpTcW3SjwxIv6siMQlSEUwYsS0eo9AmwHrQg==",
-  "success": true,
-  "projectFilePath": "C:\\Desenvolvimento\\Testes\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
->>>>>>> 1eb49a4f236168ec6f352f266ea6e6e39ed27d5a
+  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\adria\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
-    "C:\\Users\\adria\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
+    "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache D:\\Desenvolvimento\\CSharp\\AspNetCore\\TESTES\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
